@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como Cuidar a tu Yorkshire</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #3E8E41;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #3E8E41;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Guia para Cuidar a tu Yorkshire Terrier</h1>
+    </header>
+
+    <section>
+        <h2>1. Alimentacion Balanceada</h2>
+        <p>El Yorkshire Terrier es una raza pequena y activa que requiere una dieta adecuada para mantenerse saludable. Asegurate de darle alimento de buena calidad que cubra todas sus necesidades nutricionales.</p>
+        <ul>
+            <li>Alimentalo con croquetas disenadas para perros pequenos.</li>
+            <li>Evita darle comida para humanos, ya que algunos ingredientes pueden ser peligrosos para su salud.</li>
+            <li>Proporcionales agua fresca en todo momento.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>2. Ejercicio Regular</h2>
+        <p>A pesar de ser pequenos, los Yorkshire Terriers tienen mucha energia. Es importante que realices actividades que les permitan liberar su energia y mantenerse en forma.</p>
+        <ul>
+            <li>Realiza paseos cortos pero frecuentes.</li>
+            <li>Proporcionales juguetes para masticar y jugar dentro de casa.</li>
+            <li>Evita el ejercicio excesivo en climas calidos.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>3. Cuidado del Pelaje</h2>
+        <p>El pelaje del Yorkshire Terrier es largo y requiere cuidados especiales para evitar que se enrede o se dane. Aqui tienes algunos consejos para mantenerlo hermoso:</p>
+        <ul>
+            <li>Peina su pelaje diariamente para evitar nudos.</li>
+            <li>Realiza banos periodicos con champu suave para perros.</li>
+            <li>Recorta las puntas del pelaje regularmente para evitar que se enrede.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>4. Visitas al Veterinario</h2>
+        <p>Las visitas regulares al veterinario son esenciales para detectar problemas de salud a tiempo. Algunos cuidados basicos incluyen:</p>
+        <ul>
+            <li>Vacunacion anual.</li>
+            <li>Desparacitacion regular.</li>
+            <li>Chequeos generales para asegurarte de que no haya problemas de salud.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>5. Socializacion y Educacion</h2>
+        <p>El Yorkshire Terrier es un perro inteligente y puede aprender rapidamente, pero tambien necesita una buena socializacion desde temprana edad para evitar problemas de comportamiento.</p>
+        <ul>
+            <li>Exponlo a tu Yorkshire a diferentes personas y situaciones desde cachorro.</li>
+            <li>Enséñales comandos basicos como “sentado”, “quieto” y “ven aqui”.</li>
+            <li>Premia su buen comportamiento con golosinas o elogios.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Consejos para el cuidado de tu Yorkshire Terrier. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
